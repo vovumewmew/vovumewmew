@@ -41,11 +41,6 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vovumewmew&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vovumewmew&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-</div>
-
 <div align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vovumewmew&theme=radical&hide_border=true" alt="streak graph" />
 </div>
