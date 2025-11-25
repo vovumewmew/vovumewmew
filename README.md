@@ -5,15 +5,16 @@
   ### 👨‍💻 Applied Mathematics Student | Aspiring Software Engineer
 
   <p>
-    <em>"Turning mathematical logic into efficient software solutions."</em>
-  </p>
+   <em>"Turning mathematical logic into efficient software solutions."</em>
+</p>
 
-  <a href="(https://www.linkedin.com/in/v%C5%A9-v%C3%B5-v%C4%83n-truy%E1%BB%81n-2b083439a/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:vovu01673@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
+<a href="https://www.linkedin.com/in/v%C5%A9-v%C3%B5-v%C4%83n-truy%E1%BB%81n-2b083439a/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:vovu01673@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
 </div>
 
