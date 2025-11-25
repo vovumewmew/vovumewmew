@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center">
+  
+  <h1>Hi there, I'm Nguyen Van A! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<!--
-**vovumewmew/vovumewmew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### 👨‍💻 Applied Mathematics Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+  <p>
+    <em>"Turning mathematical logic into efficient software solutions."</em>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://linkedin.com/in/username-cua-ban" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:email-cua-ban@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+
+</div>
+
+---
+
+### 🧐 About Me
+
+- 🎓 I’m a senior student majoring in **Math-Informatics** at **Saigon University (SGU)**.
+- 🔭 I’m currently looking for an **Internship** in Software Engineering / Backend Development.
+- 💡 My strengths lie in **Data Structures & Algorithms**, **Database Design**, and **Software Development**.
+- 🌱 I’m currently learning: **Microservices Architecture, Cloud Computing**, and **Machine Learning**.
+- 🧩 Fun fact: I love solving puzzles on **LeetCode**.
+
+---
+
+### 🛠 Languages & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,git,vscode,idea,linux,html,css,js&perline=11" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vovumewmew&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vovumewmew&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+</div>
+
+<div align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vovumewmew&theme=radical&hide_border=true" alt="streak graph" />
+</div>
+
+---
